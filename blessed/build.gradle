@@ -6,8 +6,8 @@ group 'com.github.weliem'
 version '0.64'
 
 compileJava {
-    sourceCompatibility = 11
-    targetCompatibility = 11
+    sourceCompatibility = 9
+    targetCompatibility = 9
 }
 
 repositories {
